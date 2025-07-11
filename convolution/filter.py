@@ -17,5 +17,4 @@ filtered = image.filter(ImageFilter.Kernel(
     scale=1
 ))
 
-# Show resulting image
 filtered.show()
