@@ -1,7 +1,7 @@
 import sys
 import tensorflow as tf
 
-# Use MNIST handwriting dataset
+# MNIST handwriting dataset
 mnist = tf.keras.datasets.mnist
 
 # Prepare data for training
